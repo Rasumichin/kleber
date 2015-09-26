@@ -1,4 +1,4 @@
-package com.retail_sc.java.zen.stickr;
+package de.jsmithy.zen.stickr;
 
 import org.junit.Test;
 
@@ -8,7 +8,7 @@ public class MetaAlbumTest {
 
 	@Test
 	public void testCreate() {
-		String title = "Benjamin Blümchen - Mein großes Stickeralbum";
+		String title = "Benjamin Blï¿½mchen - Mein groï¿½es Stickeralbum";
 		Topic topic = Topic.create(title);
 		Publisher publisher = Publisher.create("Panini");
 

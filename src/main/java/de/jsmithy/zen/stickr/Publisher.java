@@ -1,4 +1,4 @@
-package com.retail_sc.java.zen.stickr;
+package de.jsmithy.zen.stickr;
 
 public class Publisher {
 	private String name;
